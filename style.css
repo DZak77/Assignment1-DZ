@@ -1,0 +1,65 @@
+html 	{ 
+  		background: url(images/football-grass.jpg) no-repeat center center fixed;
+  		-webkit-background-size: cover;
+  		-moz-background-size: cover;
+  		-o-background-size: cover;
+  		background-size: cover;
+		}
+body    {
+        width: 900px;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: Verdana, Geneva, sans-serif;
+        }
+article    {
+        background: #98bf21;
+        font-size: 75%;
+        padding: 5px 15px 5px 15px;
+        margin: 5px 0px 0px 0px;
+        border-bottom: thick solid white;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        }
+#top    {
+        font-family: Verdana, Geneva, sans-serif;
+        font-size:    155%;
+        text-align: center;
+        text-shadow: 5px 5px 5px #F5F5F5;
+        margin: -25px 0px -25px 0px;
+        padding: 10px;
+        }
+#sub    {
+        font-family: Verdana, Geneva, sans-serif;
+        font-size:    125%;
+        text-align: left;
+        text-shadow: 3px 3px 3px #F5F5F5;
+        margin: 20px 0px 20px 0px;
+        }
+header  {
+        margin:    -50px 10px 50px 10px;
+        padding: 50px 150px 10px 150px;
+        height: 50px;
+        line-height: 1em;
+        color: black;
+        font-family: Verdana, Geneva, sans-serif;
+        font-size: 150%;
+        text-shadow: 3px 3px 3px #F5F5F5;
+        text-align: center;
+        }
+#profile {
+        padding: 0px 300px 0px 300px;
+}
+#test1 {
+        padding: 0px 200px 0px 200px;
+}
+		
+
+		
+
+		
+	
+		
+								 		
+				
+		
+				
